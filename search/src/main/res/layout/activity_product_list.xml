@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<FrameLayout-->
+
+    <!--android:id="@+id/fragment_container"-->
+    <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--tools:context="me.deepak.search.SearchActivity">-->
+
+    <!--&lt;!&ndash;<fragment&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/listFragment"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:name="me.deepak.productlist.fragments.ProductListFragment"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_height="match_parent"/>  &ndash;&gt;-->
+
+    <!--&lt;!&ndash;<fragment&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/detailFragment"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:name="me.deepak.productdetails.fragments.ProductDetailFragment"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_height="match_parent"/>&ndash;&gt;-->
+
+    <me.deepak.search.ProductViewPager
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+<!--</FrameLayout>-->

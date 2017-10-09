@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoApp.iml" filepath="$PROJECT_DIR$/DemoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidutils/androidutils.iml" filepath="$PROJECT_DIR$/androidutils/androidutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidutils/androidutils.iml" filepath="$PROJECT_DIR$/androidutils/androidutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidutils/androidutils.iml" filepath="$PROJECT_DIR$/androidutils/androidutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoapp.iml" filepath="$PROJECT_DIR$/demoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoapp.iml" filepath="$PROJECT_DIR$/demoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigation/navigation.iml" filepath="$PROJECT_DIR$/navigation/navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productdetails/productdetails.iml" filepath="$PROJECT_DIR$/productdetails/productdetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productdetails/productdetails.iml" filepath="$PROJECT_DIR$/productdetails/productdetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productdetails/productdetails.iml" filepath="$PROJECT_DIR$/productdetails/productdetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productlist/productlist.iml" filepath="$PROJECT_DIR$/productlist/productlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productlist/productlist.iml" filepath="$PROJECT_DIR$/productlist/productlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productlist/productlist.iml" filepath="$PROJECT_DIR$/productlist/productlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmodels/viewmodels.iml" filepath="$PROJECT_DIR$/viewmodels/viewmodels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmodels/viewmodels.iml" filepath="$PROJECT_DIR$/viewmodels/viewmodels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewmodels/viewmodels.iml" filepath="$PROJECT_DIR$/viewmodels/viewmodels.iml" />
+    </modules>
+  </component>
+</project>
